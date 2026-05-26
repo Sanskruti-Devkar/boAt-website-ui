@@ -2,7 +2,7 @@
 
 This project is a front-end UI design inspired by the boAt website, created using HTML and CSS. The project focuses on practicing modern e-commerce layout design, product showcasing, and responsive UI structure.
 
----
+Live demo:https://Sanskruti-Devkar.github.io/boAt-website-ui/
 
 # Features
 
